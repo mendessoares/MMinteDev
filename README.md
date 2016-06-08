@@ -1,2 +1,2 @@
 # MMinteDev
-Development Repo for new and improved MMinte
+Development repository for new and improved MMinte
